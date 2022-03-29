@@ -1,6 +1,5 @@
 # CP2 (CodeStates Project2)
 
-
 CodeStates AI 부트캠프의 마지막 프로젝트 CP2입니다. CP2는 총 3가지의 목표가 설정되어 있습니다.
 
 1. 뉴스 카테고리 분류
@@ -14,3 +13,4 @@ CodeStates AI 부트캠프의 마지막 프로젝트 CP2입니다. CP2는 총 3�
 [참고 블로그](https://doheon.github.io/%EC%BD%94%EB%93%9C%EA%B5%AC%ED%98%84/nlp/ci-kobert-post/)에 작성된 코드를 바탕으로 구현되었습니다
 
 Python을 사용했고, Colab 환경에서 GPU를 사용해 모델을 훈련시켰습니다. 
+
