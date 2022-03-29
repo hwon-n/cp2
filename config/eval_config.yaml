@@ -1,0 +1,6 @@
+bert_model: monologg/kobert
+test_data_path: /content/drive/MyDrive/news_class9x1400/sample.txt
+ckpt_path: /content/checkpoints/{epoch}_{val_loss:3f}/epoch=94-step=94.ckpt
+max_len: 128
+eval_batch_size: 129
+dropout_rate: 0.1
